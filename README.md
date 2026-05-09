@@ -15,7 +15,4 @@ gcc Buckshot_Roulette.c -o game
 
 ## Notes
 
-- Made this as a first semester project so the code is pretty basic
-- - Used formatted text and alignment in the terminal to make it look cleaner
-  - - It was a fun way to practice loops, conditionals and random number stuff in C
-    - - Might clean it up later
+First semester project so the code is pretty basic. Used formatted text and alignment in the terminal to make it look cleaner. It was a fun way to practice loops, conditionals and random number stuff in C. Might clean it up later.
